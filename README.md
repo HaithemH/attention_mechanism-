@@ -1,6 +1,6 @@
-# attention_mechanism
+# attention mechanism
 
-** Attention mechanism in keras **
+# ** Attention mechanism in keras **
 This notbook tries to explain what often-quoted Attention mechanism is. we will discuss how a simple Attention model can be implemented in Keras. The purpose of this demo is to show how a simple Attention layer can be implemented in keras. The NLP field adressed here is sentiment analysis. The dataset is publically availble here
 
 ![image](https://user-images.githubusercontent.com/26150468/124454574-8ca35980-dd80-11eb-8643-ad4a8a1bc3ec.png)
