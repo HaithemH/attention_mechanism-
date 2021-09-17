@@ -12,6 +12,8 @@ In broad terms, Attention is one component of a network’s architecture, and is
 
 Between the input and output elements (General Attention) Within the input elements (Self-Attention) Let me give you an example of how Attention works in a translation task. Say we have the sentence “How was your day”, which we would like to translate to the French version - “Comment se passe ta journée”. What the Attention component of the network will do for each word in the output sentence is map the important and relevant words from the input sentence and assign higher weights to these words, enhancing the accuracy of the output prediction.
 
-
+<p align="center">
+    <img src = "./figures/GlobalAttention.png" width="100%">
+</p>
 
 
